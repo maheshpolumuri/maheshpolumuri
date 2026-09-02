@@ -12,3 +12,4 @@ EXPOSE 8080
 
 # Step 5: Define the command to run your Spring Boot application
 CMD ["java", "-jar", "/app/my-spring-boot-app.jar"]
+IST time converted and please check now 
